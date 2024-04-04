@@ -1,5 +1,4 @@
 Feature: Login
-
   Scenario:
     Given user is on OD Self serve login page
     When user enters the Mobile no
